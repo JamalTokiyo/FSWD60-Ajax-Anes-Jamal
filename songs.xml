@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<catalog>
+ <songs id="sng1">
+    <title>Mercy</title>
+    <Artist>Shawn Mendes</Artist>
+    <Country>USA</Country>
+    <genre>Pop</genre>
+    <Year>2018</Year>
+    
+ </songs>
+ <songs id="sng2">
+    <title>God's Plan</title>
+    <Artist>Drake</Artist>
+    <Country>USA</Country>
+    <genre>Pop</genre>
+    <Year>2018</Year>
+    
+ </songs>
+<songs id="sng3">
+    <title>Nice For What</title>
+    <Artist>Drake</Artist>
+    <Country>USA</Country>
+    <genre>Pop</genre>
+    <Year>2018</Year>
+    
+ </songs>
+ <songs id="sng4">
+    <title>Shape of You</title>
+    <Artist>Ed Sheeran</Artist>
+    <Country>USA</Country>
+    <genre>Pop</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng5">
+    <title>Wild Thoughts</title>
+    <Artist>DJ Khaled</Artist>
+    <Country>USA</Country>
+    <genre>Hip Hop/Rap</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng6">
+    <title>Unforgettable</title>
+    <Artist> French Montana</Artist>
+    <Country>USA</Country>
+    <genre>Hip-Hop/Rap</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng7">
+    <title> Believer</title>
+    <Artist>Imagine Dragons</Artist>
+    <Country>USA</Country>
+    <genre>Pop rock</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng8">
+    <title>Side</title>
+    <Artist>Calvin Harris</Artist>
+    <Country>USA</Country>
+    <genre>Electropop</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng9">
+    <title>KYGO</title>
+    <Artist>Selena Gomez, Kygo</Artist>
+    <Country>USA</Country>
+    <genre>Dance-pop</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng10">
+    <title>Swalla</title>
+    <Artist>Jason Derulo</Artist>
+    <Country>USA</Country>
+    <genre>Pop</genre>
+    <Year>2017</Year>
+    
+ </songs>
+  <songs id="sng11">
+    <title>Mercy</title>
+    <Artist>Shawn Mendes</Artist>
+    <Country>USA</Country>
+    <genre>Pop</genre>
+    <Year>2018</Year>
+    
+ </songs>
+ <songs id="sng12">
+    <title>God's Plan</title>
+    <Artist>Drake</Artist>
+    <Country>USA</Country>
+    <genre>Pop</genre>
+    <Year>2018</Year>
+    
+ </songs>
+<songs id="sng13">
+    <title>Nice For What</title>
+    <Artist>Drake</Artist>
+    <Country>USA</Country>
+    <genre>Pop</genre>
+    <Year>2018</Year>
+    
+ </songs>
+ <songs id="sng14">
+    <title>Shape of You</title>
+    <Artist>Ed Sheeran</Artist>
+    <Country>USA</Country>
+    <genre>Pop</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng15">
+    <title>Wild Thoughts</title>
+    <Artist>DJ Khaled</Artist>
+    <Country>USA</Country>
+    <genre>Hip Hop/Rap</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng16">
+    <title>Unforgettable</title>
+    <Artist> French Montana</Artist>
+    <Country>USA</Country>
+    <genre>Hip-Hop/Rap</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng17">
+    <title> Believer</title>
+    <Artist>Imagine Dragons</Artist>
+    <Country>USA</Country>
+    <genre>Pop rock</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng18">
+    <title>Side</title>
+    <Artist>Calvin Harris</Artist>
+    <Country>USA</Country>
+    <genre>Electropop</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng19">
+    <title>KYGO</title>
+    <Artist>Selena Gomez, Kygo</Artist>
+    <Country>USA</Country>
+    <genre>Dance-pop</genre>
+    <Year>2017</Year>
+    
+ </songs>
+ <songs id="sng20">
+    <title>Swalla</title>
+    <Artist>Jason Derulo</Artist>
+    <Country>USA</Country>
+    <genre>Pop</genre>
+    <Year>2017</Year>
+    
+ </songs>
+</catalog>
