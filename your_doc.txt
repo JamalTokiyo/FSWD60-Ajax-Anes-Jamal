@@ -1,0 +1,7 @@
+Remember the try...catch construct? The example above is a perfect illustration of its utility, because it uses the try keyword to execute the non-IE AJAX command, and upon success, jumps on to the final return statement, where the new object is returned.
+
+
+The XMLHttpRequest object is used to exchange data with a server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page.
+
+
+To run the function from the example below you will need a web server. For this example you will also need to create your_doc.txt file and insert some content inside it. When you press the button “Change content”, content from your_doc.txt will be loaded in the HTML page over the XMLHttpRequest object.
