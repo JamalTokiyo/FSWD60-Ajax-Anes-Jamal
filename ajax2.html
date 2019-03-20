@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ajax test</title>
+</head>
+<body>
+	<p id="display">
+		
+	</p>
+	<button type="text" id="contents">change the contents</button>
+<script>
+
+		document.getElementById("contents").addEventListener("click", loadDoc, false);
+
+	function loadDoc(){
+
+		var xhttp=new XMLHttpRequest();
+		xhttp.onreadystatechange=function(){
+			if(this.readyState==4 && this.status==200){
+			document.getElementById("display").innerHTML=
+			this.responseText;
+		}
+}
+		xhttp.open('GET',"your_doc.txt",true);
+		xhttp.send();
+	
+}
+	
+</script>
+</body>
+</html>
