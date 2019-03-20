@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-<div id="content">
+<div id="content"></div>
+
 <h1>The XMLHttpRequest Object</h1>
 <button type="button" onclick="loadDoc()">Change Content</button>
-</div>
 <script>
 function loadDoc() {
  var xhttp = new XMLHttpRequest();
@@ -13,10 +13,11 @@ function loadDoc() {
      document.getElementById("content").innerHTML =
      this.responseText;
    }
- };
+ }
  xhttp.open("GET", "your_doc.txt", true);
  xhttp.send();
 }
 </script>
+
 </body>
 </html>
